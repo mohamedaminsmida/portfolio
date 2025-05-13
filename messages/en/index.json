@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "blog": "Blog",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "intro": {
+    "greeting": "Hello, I'm Yassine.",
+    "role": "I'm a",
+    "title": "full-stack developer",
+    "experience": "5+ years",
+    "description": "of experience. I specialize in building",
+    "focus": "modern web applications",
+    "with": "with",
+    "tech": "React & Next.js",
+    "contactButton": "Contact me here",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate full-stack developer with a strong focus on creating efficient, scalable, and user-friendly web applications. With over 5 years of experience in the industry, I've worked on a variety of projects ranging from small business websites to complex enterprise applications.",
+    "background": "My journey in web development began with a solid foundation in computer science, and I've continuously expanded my skills to stay at the forefront of modern web technologies. I'm particularly experienced with React, Next.js, and the broader JavaScript ecosystem.",
+    "approach": "I approach each project with a commitment to clean code, performance optimization, and thoughtful user experience design. I believe in building applications that not only meet technical requirements but also deliver real value to users."
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewGithub": "View on GitHub",
+    "viewDemo": "Live Demo"
+  },
+  "skills": {
+    "title": "My Skills"
+  },
+  "experience": {
+    "title": "My Experience"
+  },
+  "blog": {
+    "title": "Latest Articles",
+    "readMore": "Read more",
+    "viewAll": "View all articles"
+  },
+  "testimonials": {
+    "title": "What People Say"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "nameLabel": "Your name",
+    "emailLabel": "Your email",
+    "messageLabel": "Your message",
+    "submitButton": "Submit",
+    "successMessage": "Thank you for your message! I'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "copyright": "© 2024 Yassine. All rights reserved.",
+    "builtWith": "Built with Next.js and Tailwind CSS"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  }
+}
