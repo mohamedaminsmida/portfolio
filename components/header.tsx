@@ -13,7 +13,7 @@ import { useTranslation } from "@/lib/hooks/useTranslation";
 export default function Header() {
   const { activeSection, setActiveSection, setTimeOfLastClick } =
     useActiveSectionContext();
-  const { t, language } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <header className="z-[999] relative">

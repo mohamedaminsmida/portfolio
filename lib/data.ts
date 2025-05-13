@@ -1,9 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact, FaServer, FaCode } from "react-icons/fa";
+import { FaReact, FaCode } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import { MdOutlineDesignServices } from "react-icons/md";
-import { SiBlockchaindotcom } from "react-icons/si";
 
 export const links = [
   {
@@ -81,7 +79,7 @@ export const projectsData = [
     description:
       "A full-featured e-commerce platform with product management, user authentication, cart functionality, and payment processing.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Stripe"],
-    imageUrl: "https://placehold.co/600x400/6366f1/ffffff?text=E-Commerce+Platform",
+    imageUrl: "/images/project1.jpg",
     link: "https://github.com/yourusername/ecommerce-platform",
   },
   {
@@ -89,7 +87,7 @@ export const projectsData = [
     description:
       "An application that uses AI to generate content for blogs, social media, and marketing materials. Features a user-friendly interface and customization options.",
     tags: ["React", "TypeScript", "OpenAI API", "Node.js", "Express"],
-    imageUrl: "https://placehold.co/600x400/6366f1/ffffff?text=AI+Content+Generator",
+    imageUrl: "/images/project2.jpg",
     link: "https://github.com/yourusername/ai-content-generator",
   },
   {
@@ -97,7 +95,7 @@ export const projectsData = [
     description:
       "A platform for listing and searching properties with advanced filtering, map integration, and virtual tours.",
     tags: ["Next.js", "PostgreSQL", "Prisma", "Mapbox", "AWS"],
-    imageUrl: "https://placehold.co/600x400/6366f1/ffffff?text=Real+Estate+Marketplace",
+    imageUrl: "/images/project3.jpg",
     link: "https://github.com/yourusername/real-estate-marketplace",
   },
 ] as const;
@@ -134,19 +132,19 @@ export const testimonialData = [
     name: "Sarah Johnson",
     title: "CEO at TechStart",
     text: "Yassine delivered an exceptional website that perfectly captured our brand. His attention to detail and technical expertise are outstanding.",
-    image: "https://placehold.co/150x150/6366f1/ffffff?text=SJ",
+    image: "/images/testimonial1.jpg",
   },
   {
     name: "Ahmed Hassan",
     title: "Marketing Director",
     text: "Working with Yassine was a pleasure. He understood our requirements quickly and delivered a solution that exceeded our expectations.",
-    image: "https://placehold.co/150x150/6366f1/ffffff?text=AH",
+    image: "/images/testimonial2.jpg",
   },
   {
     name: "Maria Garcia",
     title: "Product Manager",
     text: "Yassine's technical skills and creativity make him a valuable asset to any project. He built our platform with scalability and performance in mind.",
-    image: "https://placehold.co/150x150/6366f1/ffffff?text=MG",
+    image: "/images/testimonial3.jpg",
   },
 ] as const;
 

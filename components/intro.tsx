@@ -14,7 +14,7 @@ import { useTranslation } from "@/lib/hooks/useTranslation";
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
-  const { t, language } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <section
@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://placehold.co/400x400/6366f1/ffffff?text=Y"
+              src="/images/profile.jpg"
               alt="Yassine portrait"
               width="192"
               height="192"
