@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/images/profile.jpg"
+              src="/images/profile.png"
               alt="Yassine portrait"
               width="192"
               height="192"

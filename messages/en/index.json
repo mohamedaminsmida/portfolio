@@ -12,20 +12,20 @@
   "intro": {
     "greeting": "Hello, I'm Yassine.",
     "role": "I'm a",
-    "title": "full-stack developer",
+    "title": "Laravel developer",
     "experience": "5+ years",
     "description": "of experience. I specialize in building",
     "focus": "modern web applications",
     "with": "with",
-    "tech": "React & Next.js",
+    "tech": "Laravel, Livewire, Filament, Alpine.js, and Tailwind CSS",
     "contactButton": "Contact me here",
     "downloadCV": "Download CV"
   },
   "about": {
     "title": "About Me",
-    "description": "I'm a passionate full-stack developer with a strong focus on creating efficient, scalable, and user-friendly web applications. With over 5 years of experience in the industry, I've worked on a variety of projects ranging from small business websites to complex enterprise applications.",
-    "background": "My journey in web development began with a solid foundation in computer science, and I've continuously expanded my skills to stay at the forefront of modern web technologies. I'm particularly experienced with React, Next.js, and the broader JavaScript ecosystem.",
-    "approach": "I approach each project with a commitment to clean code, performance optimization, and thoughtful user experience design. I believe in building applications that not only meet technical requirements but also deliver real value to users."
+    "description": "I'm a passionate Laravel developer with a strong focus on creating efficient, scalable, and user-friendly web applications. With over 5 years of experience in the industry, I've worked on a variety of projects ranging from small business websites to complex enterprise applications.",
+    "background": "My journey in web development began with a solid foundation in computer science, and I've continuously expanded my skills to stay at the forefront of modern web technologies. I'm particularly experienced with Laravel, Livewire, Filament, Alpine.js, and Tailwind CSS.",
+    "approach": "I approach each project with a commitment to clean code, performance optimization, and thoughtful user experience design. I believe in building applications that not only meet technical requirements but also deliver real value to users. The TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) has become my preferred technology stack for delivering exceptional web experiences."
   },
   "projects": {
     "title": "My Projects",

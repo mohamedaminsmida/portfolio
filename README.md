@@ -1,6 +1,6 @@
-# Yassine's Portfolio
+# Yassine's Laravel Developer Portfolio
 
-A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS.
+A modern, responsive portfolio website showcasing my Laravel development skills and projects.
 
 ## Features
 
@@ -11,19 +11,21 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 - **3D elements** using Three.js
 - **Contact form** with email functionality
 - **Mobile-friendly** navigation
-- **Blog section** to showcase writing
+- **Blog section** to showcase Laravel articles
 - **Testimonials section** to display client feedback
 
-## Technologies Used
+## Technologies & Skills Highlighted
 
-- Next.js 14
-- React 18
-- TypeScript
+- Laravel
+- Livewire
+- Filament
+- Alpine.js
 - Tailwind CSS
-- Framer Motion
-- Three.js
-- Date-fns
-- React Icons
+- TALL Stack
+- MySQL
+- PHP
+- Blade Templates
+- Eloquent ORM
 
 ## Getting Started
 
@@ -36,8 +38,8 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/yassine-portfolio.git
-   cd yassine-portfolio
+   git clone https://github.com/Yassine-Kooli/yassine-portfolio-nextjs.git
+   cd yassine-portfolio-nextjs
    ```
 
 2. Install dependencies
@@ -61,10 +63,6 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 The site can be easily deployed to Vercel:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyassine-portfolio)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 

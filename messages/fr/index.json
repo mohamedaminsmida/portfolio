@@ -12,20 +12,20 @@
   "intro": {
     "greeting": "Bonjour, je suis Yassine.",
     "role": "Je suis",
-    "title": "développeur full-stack",
+    "title": "développeur Laravel",
     "experience": "5+ ans",
     "description": "d'expérience. Je me spécialise dans la création",
     "focus": "d'applications web modernes",
     "with": "avec",
-    "tech": "React et Next.js",
+    "tech": "Laravel, Livewire, Filament, Alpine.js et Tailwind CSS",
     "contactButton": "Contactez-moi ici",
     "downloadCV": "Télécharger CV"
   },
   "about": {
     "title": "À Propos de Moi",
-    "description": "Je suis un développeur full-stack passionné, axé sur la création d'applications web efficaces, évolutives et conviviales. Avec plus de 5 ans d'expérience dans l'industrie, j'ai travaillé sur une variété de projets allant des sites web pour petites entreprises aux applications complexes d'entreprise.",
-    "background": "Mon parcours en développement web a commencé avec une solide formation en informatique, et j'ai continuellement élargi mes compétences pour rester à l'avant-garde des technologies web modernes. Je suis particulièrement expérimenté avec React, Next.js et l'écosystème JavaScript plus large.",
-    "approach": "J'aborde chaque projet avec un engagement envers le code propre, l'optimisation des performances et la conception réfléchie de l'expérience utilisateur. Je crois en la construction d'applications qui non seulement répondent aux exigences techniques, mais qui apportent également une réelle valeur aux utilisateurs."
+    "description": "Je suis un développeur Laravel passionné, axé sur la création d'applications web efficaces, évolutives et conviviales. Avec plus de 5 ans d'expérience dans l'industrie, j'ai travaillé sur une variété de projets allant des sites web pour petites entreprises aux applications complexes d'entreprise.",
+    "background": "Mon parcours en développement web a commencé avec une solide formation en informatique, et j'ai continuellement élargi mes compétences pour rester à l'avant-garde des technologies web modernes. Je suis particulièrement expérimenté avec Laravel, Livewire, Filament, Alpine.js et Tailwind CSS.",
+    "approach": "J'aborde chaque projet avec un engagement envers le code propre, l'optimisation des performances et la conception réfléchie de l'expérience utilisateur. Je crois en la construction d'applications qui non seulement répondent aux exigences techniques, mais qui apportent également une réelle valeur aux utilisateurs. La stack TALL (Tailwind CSS, Alpine.js, Laravel, Livewire) est devenue ma pile technologique préférée pour offrir des expériences web exceptionnelles."
   },
   "projects": {
     "title": "Mes Projets",

@@ -14,15 +14,15 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Yassine | Full-Stack Developer",
-  description: "Yassine is a full-stack developer specializing in React and Next.js with 5+ years of experience.",
-  keywords: ["developer", "web developer", "full-stack", "React", "Next.js", "JavaScript", "TypeScript"],
+  title: "Yassine | Laravel Developer",
+  description: "Yassine is a Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS with 5+ years of experience.",
+  keywords: ["developer", "web developer", "Laravel", "Livewire", "Filament", "Alpine.js", "Tailwind CSS", "PHP"],
   authors: [{ name: "Yassine" }],
   creator: "Yassine",
   openGraph: {
-    title: "Yassine | Full-Stack Developer",
-    description: "Full-stack developer specializing in React and Next.js",
-    url: "https://yassine.dev",
+    title: "Yassine | Laravel Developer",
+    description: "Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS",
+    url: "https://yassine-kooli.vercel.app/",
     siteName: "Yassine's Portfolio",
     locale: "en_US",
     type: "website",
