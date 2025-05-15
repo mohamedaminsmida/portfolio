@@ -1,4 +1,4 @@
-# Yassine's Laravel Developer Portfolio
+# Mohamed Amin Smida Laravel Developer Portfolio
 
 A modern, responsive portfolio website showcasing my Laravel development skills and projects.
 
@@ -36,36 +36,56 @@ A modern, responsive portfolio website showcasing my Laravel development skills 
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Yassine-Kooli/yassine-portfolio-nextjs.git
-   cd yassine-portfolio-nextjs
+   git clone https://github.com/yourusername/portfolio.git
+   cd portfolio
    ```
 
-2. Install dependencies
+2. Install dependencies:
    ```bash
    npm install
    # or
    yarn install
    ```
 
-3. Run the development server
+3. Create a `.env.local` file in the root directory with the following variables (for email functionality):
+   ```
+   RESEND_API_KEY=your_resend_api_key
+   ```
+
+4. Run the development server:
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the portfolio.
+
+### Building for Production
+
+1. Build the application:
+   ```bash
+   npm run build
+   # or
+   yarn build
+   ```
+
+2. Start the production server:
+   ```bash
+   npm run start
+   # or
+   yarn start
+   ```
 
 ## Deployment
 
-The site can be easily deployed to Vercel:
+This portfolio is configured for easy deployment on Vercel. Simply connect your GitHub repository to Vercel for automatic deployments.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyassine-portfolio)
+## Customization
 
-## Acknowledgments
-
-- Original design inspiration from various portfolio templates
-- Icons from React Icons
-- 3D effects powered by Three.js
+- Update personal information in `lib/data.ts`
+- Modify language translations in the `messages` directory
+- Replace project images in the `public/images` directory
+- Update your CV at `public/CV.pdf`
