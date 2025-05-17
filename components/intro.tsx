@@ -33,8 +33,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/images/profile.png"
-              alt="Yassine portrait"
+              src="/images/profil.jpg"
+              alt="Amin portrait"
               width="192"
               height="192"
               quality="95"
@@ -107,7 +107,7 @@ export default function Intro() {
         <div className="flex gap-2">
           <a
             className="bg-white p-3 sm:p-4 text-gray-700 hover:text-primary-600 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60 dark:hover:text-primary-400 dark:border-white/10"
-            href="https://www.linkedin.com/in/yassine-kooli/"
+            href="https://www.linkedin.com/in/smida-amin-677970278/?originalSubdomain=tn"
             target="_blank"
             aria-label="LinkedIn Profile"
           >
@@ -116,7 +116,7 @@ export default function Intro() {
 
           <a
             className="bg-white p-3 sm:p-4 text-gray-700 hover:text-primary-600 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60 dark:hover:text-primary-400 dark:border-white/10"
-            href="https://github.com/Yassine-Kooli"
+            href="https://github.com/mohamedaminsmida"
             target="_blank"
             aria-label="GitHub Profile"
           >
@@ -125,7 +125,7 @@ export default function Intro() {
 
           <a
             className="bg-white p-3 sm:p-4 text-gray-700 hover:text-primary-600 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60 dark:hover:text-primary-400 dark:border-white/10"
-            href="https://www.upwork.com/freelancers/~01e5595c71628fd231?viewMode=1"
+            href="https://www.upwork.com/freelancers/~01e588b36c1254900f"
             target="_blank"
             aria-label="Upwork Profile"
           >

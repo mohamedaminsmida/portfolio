@@ -1,5 +1,5 @@
 import About from "@/components/about";
-import Blog from "@/components/blog";
+// import Blog from "@/components/blog";
 import Contact from "@/components/contact";
 import CustomCursor from "@/components/custom-cursor";
 import Experience from "@/components/experience";
@@ -7,7 +7,6 @@ import Intro from "@/components/intro";
 import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
-import Testimonials from "@/components/testimonials";
 import ThreeBackground from "@/components/three-background";
 
 export default function Home() {
@@ -21,8 +20,7 @@ export default function Home() {
       <Projects />
       <Skills />
       <Experience />
-      <Blog />
-      <Testimonials />
+      {/* <Blog /> */}
       <Contact />
     </main>
   );

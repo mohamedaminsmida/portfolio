@@ -10,10 +10,10 @@
     "contact": "Contact"
   },
   "intro": {
-    "greeting": "Hello, I'm Yassine.",
-    "role": "I'm a",
+    "greeting": "Hello, I'm Amin,",
+    "role": "a",
     "title": "Laravel developer",
-    "experience": "5+ years",
+    "experience": "3+ years",
     "description": "of experience. I specialize in building",
     "focus": "modern web applications",
     "with": "with",
@@ -23,9 +23,9 @@
   },
   "about": {
     "title": "About Me",
-    "description": "I'm a passionate Laravel developer with a strong focus on creating efficient, scalable, and user-friendly web applications. With over 5 years of experience in the industry, I've worked on a variety of projects ranging from small business websites to complex enterprise applications.",
-    "background": "My journey in web development began with a solid foundation in computer science, and I've continuously expanded my skills to stay at the forefront of modern web technologies. I'm particularly experienced with Laravel, Livewire, Filament, Alpine.js, and Tailwind CSS.",
-    "approach": "I approach each project with a commitment to clean code, performance optimization, and thoughtful user experience design. I believe in building applications that not only meet technical requirements but also deliver real value to users. The TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) has become my preferred technology stack for delivering exceptional web experiences."
+    "description": "Hi, I'm Mohamed Amin Smida — a 22-year-old software developer with a strong passion for building reliable and scalable web applications.",
+    "background": "With over 3 years of experience in Laravel, I've also worked extensively with Node.js, NestJS, and the Directus CMS. I'm currently pursuing my engineering degree while working as a backend developer at a tech company in Tunis.",
+    "approach": "Throughout my career, I've contributed to large-scale projects, gaining hands-on experience in solving real-world problems and delivering high-quality solutions that make a difference. If you're looking for someone who's committed, detail-oriented, and easy to collaborate with — I'd love to help bring your ideas to life."
   },
   "projects": {
     "title": "My Projects",
@@ -56,7 +56,7 @@
     "errorMessage": "Something went wrong. Please try again."
   },
   "footer": {
-    "copyright": "© 2024 Yassine. All rights reserved.",
+    "copyright": "© 2024 Amin. All rights reserved.",
     "builtWith": "Built with Next.js and Tailwind CSS"
   },
   "theme": {

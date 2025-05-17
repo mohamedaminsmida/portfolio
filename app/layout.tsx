@@ -14,16 +14,16 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Yassine | Laravel Developer",
-  description: "Yassine is a Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS with 5+ years of experience.",
+  title: "Amin | Laravel Developer",
+  description: "Amin is a Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS with 3+ years of experience.",
   keywords: ["developer", "web developer", "Laravel", "Livewire", "Filament", "Alpine.js", "Tailwind CSS", "PHP"],
-  authors: [{ name: "Yassine" }],
-  creator: "Yassine",
+  authors: [{ name: "Amin" }],
+  creator: "Amin",
   openGraph: {
-    title: "Yassine | Laravel Developer",
+    title: "Amin | Laravel Developer",
     description: "Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS",
-    url: "https://yassine-kooli.vercel.app/",
-    siteName: "Yassine's Portfolio",
+    url: "https://amin-kooli.vercel.app/",
+    siteName: "Amin's Portfolio",
     locale: "en_US",
     type: "website",
   },

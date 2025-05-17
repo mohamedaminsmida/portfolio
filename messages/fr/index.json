@@ -1,7 +1,7 @@
 {
   "navigation": {
     "home": "Accueil",
-    "about": "À propos",
+    "about": "À Propos",
     "projects": "Projets",
     "skills": "Compétences",
     "experience": "Expérience",
@@ -10,10 +10,10 @@
     "contact": "Contact"
   },
   "intro": {
-    "greeting": "Bonjour, je suis Yassine.",
-    "role": "Je suis",
+    "greeting": "Bonjour, je suis Amin,",
+    "role": "un",
     "title": "développeur Laravel",
-    "experience": "5+ ans",
+    "experience": "3+ ans",
     "description": "d'expérience. Je me spécialise dans la création",
     "focus": "d'applications web modernes",
     "with": "avec",
@@ -23,9 +23,9 @@
   },
   "about": {
     "title": "À Propos de Moi",
-    "description": "Je suis un développeur Laravel passionné, axé sur la création d'applications web efficaces, évolutives et conviviales. Avec plus de 5 ans d'expérience dans l'industrie, j'ai travaillé sur une variété de projets allant des sites web pour petites entreprises aux applications complexes d'entreprise.",
-    "background": "Mon parcours en développement web a commencé avec une solide formation en informatique, et j'ai continuellement élargi mes compétences pour rester à l'avant-garde des technologies web modernes. Je suis particulièrement expérimenté avec Laravel, Livewire, Filament, Alpine.js et Tailwind CSS.",
-    "approach": "J'aborde chaque projet avec un engagement envers le code propre, l'optimisation des performances et la conception réfléchie de l'expérience utilisateur. Je crois en la construction d'applications qui non seulement répondent aux exigences techniques, mais qui apportent également une réelle valeur aux utilisateurs. La stack TALL (Tailwind CSS, Alpine.js, Laravel, Livewire) est devenue ma pile technologique préférée pour offrir des expériences web exceptionnelles."
+    "description": "Bonjour, je suis Mohamed Amin Smida — un développeur de logiciels de 22 ans avec une forte passion pour la création d'applications web fiables et évolutives.",
+    "background": "Avec plus de 3 ans d'expérience en Laravel, j'ai également travaillé intensivement avec Node.js, NestJS et le CMS Directus. Je poursuis actuellement mon diplôme d'ingénieur tout en travaillant comme développeur backend dans une entreprise technologique à Tunis.",
+    "approach": "Tout au long de ma carrière, j'ai contribué à des projets à grande échelle, acquérant une expérience pratique dans la résolution de problèmes réels et la livraison de solutions de haute qualité qui font la différence. Si vous recherchez quelqu'un qui est engagé, minutieux et facile à collaborer — j'aimerais vous aider à donner vie à vos idées."
   },
   "projects": {
     "title": "Mes Projets",
@@ -56,7 +56,7 @@
     "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
   },
   "footer": {
-    "copyright": "© 2024 Yassine. Tous droits réservés.",
+    "copyright": "© 2024 Amin. Tous droits réservés.",
     "builtWith": "Construit avec Next.js et Tailwind CSS"
   },
   "theme": {
