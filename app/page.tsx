@@ -3,8 +3,8 @@ import About from "@/components/about";
 import Contact from "@/components/contact";
 import CustomCursor from "@/components/custom-cursor";
 import Experience from "@/components/experience";
+import Expertise from "@/components/expertise";
 import Intro from "@/components/intro";
-import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 import ThreeBackground from "@/components/three-background";
@@ -17,7 +17,7 @@ export default function Home() {
       <Intro />
       <SectionDivider />
       <About />
-      <Projects />
+      <Expertise />
       <Skills />
       <Experience />
       {/* <Blog /> */}

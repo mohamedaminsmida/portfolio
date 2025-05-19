@@ -10,8 +10,8 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
+    name: "Expertise",
+    hash: "#expertise",
   },
   {
     name: "Skills",
@@ -33,30 +33,38 @@ export const links = [
 
 // Experience data moved to translation files
 
-export const projectsData = [
+export const expertiseData = [
   {
-    title: "E-Commerce Platform",
+    title: "Laravel",
     description:
-      "A full-featured e-commerce platform with product management, user authentication, cart functionality, and payment processing built with Laravel and Livewire.",
-    tags: ["Laravel", "Livewire", "Alpine.js", "Tailwind CSS", "MySQL", "Stripe"],
-    imageUrl: "/images/project1.jpg",
-    link: "https://github.com/yourusername/laravel-ecommerce",
+      "Built sophisticated backend systems with Laravel framework, focusing on scalability and performance. Developed RESTful APIs, implemented complex business logic, and optimized database queries for high-traffic applications. Expertise in Laravel's ecosystem including events, queues, and service providers.",
+    tags: ["REST API", "Eloquent ORM", "Jobs & Queues", "Events", "Observers", "Middleware", "Service Providers", "Authentication"],
+    imageUrl: "/images/laravel-logo.png", // Replace with actual Laravel logo
+    link: "https://laravel.com",
   },
   {
-    title: "Admin Dashboard System",
+    title: "Laravel Reverb",
     description:
-      "A comprehensive admin dashboard system built with Laravel Filament, featuring role-based access control, activity logging, and a beautiful UI for managing application data.",
-    tags: ["Laravel", "Filament", "Tailwind CSS", "MySQL", "TALL Stack"],
-    imageUrl: "/images/project2.jpg",
-    link: "https://github.com/yourusername/filament-admin",
+      "Developed real-time communication systems with Laravel Reverb, creating responsive and interactive applications. Implemented WebSocket solutions for instant notifications, live dashboards, and chat applications. Designed scalable broadcasting architecture with secure authentication and efficient channel management.",
+    tags: ["WebSockets", "Real-time Updates", "Broadcasting", "Channels", "Authentication", "Scaling", "Event Broadcasting", "Presence Channels"],
+    imageUrl: "/images/reverb-logo.png", // Replace with actual Reverb logo
+    link: "https://laravel.com/docs/10.x/reverb",
   },
   {
-    title: "Real Estate Management System",
+    title: "Filament",
     description:
-      "A platform for real estate agencies to manage properties, clients, and transactions with a dynamic frontend built using Laravel, Livewire, and Alpine.js.",
-    tags: ["Laravel", "Livewire", "Alpine.js", "Tailwind CSS", "MySQL"],
-    imageUrl: "/images/project3.jpg",
-    link: "https://github.com/yourusername/laravel-real-estate",
+      "Built sophisticated admin panels and CRUD interfaces with Laravel Filament. Developed custom plugins and components to extend functionality, creating intuitive and powerful administrative dashboards for content management.",
+    tags: ["Admin Panels", "CRUD", "Google Maps Integration", "Custom Fields", "Widgets", "Form Builder", "Table Builder", "Access Control"],
+    imageUrl: "/images/filament-logo.png", // Replace with actual Filament logo
+    link: "https://filamentphp.com",
+  },
+  {
+    title: "Vue.js",
+    description:
+      "Engineered dynamic and responsive user interfaces with Vue.js, creating seamless user experiences. Developed single-page applications with component-based architecture, state management using Vuex, and client-side routing. Implemented reactive data binding, custom directives, and optimized rendering for high-performance web applications.",
+    tags: ["Components", "Vuex", "Vue Router", "Composition API", "Transitions", "API Integration", "Reactive UI", "Custom Directives"],
+    imageUrl: "/images/vue-logo.png", // Replace with actual Vue.js logo
+    link: "https://vuejs.org",
   },
 ] as const;
 

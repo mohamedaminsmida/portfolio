@@ -2,7 +2,7 @@
   "navigation": {
     "home": "Home",
     "about": "About",
-    "projects": "Projects",
+    "expertise": "Expertise",
     "skills": "Skills",
     "experience": "Experience",
     "blog": "Blog",
@@ -27,10 +27,8 @@
     "background": "With over 3 years of experience in Laravel, I've also worked extensively with Node.js, NestJS, and the Directus CMS. I'm currently pursuing my engineering degree while working as a backend developer at a tech company in Tunis.",
     "approach": "Throughout my career, I've contributed to large-scale projects, gaining hands-on experience in solving real-world problems and delivering high-quality solutions that make a difference. If you're looking for someone who's committed, detail-oriented, and easy to collaborate with — I'd love to help bring your ideas to life."
   },
-  "projects": {
-    "title": "My Projects",
-    "viewGithub": "View on GitHub",
-    "viewDemo": "Live Demo"
+  "expertise": {
+    "title": "Technical Expertise"
   },
   "skills": {
     "title": "My Skills"
