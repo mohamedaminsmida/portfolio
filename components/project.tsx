@@ -45,38 +45,16 @@ export default function Project({
           />
         </div>
 
-        <div className="pt-4 pb-7 px-5 sm:pl-10 sm:pr-2 sm:pt-10 sm:max-w-[50%] flex flex-col h-full sm:group-even:ml-[18rem] sm:h-[20rem]">
+        <div className="pt-4 pb-8 px-5 sm:pl-10 sm:pr-2 sm:pt-10 sm:max-w-[50%] flex flex-col h-full sm:group-even:ml-[18rem] sm:h-[22rem]">
           <h3 className="text-xl sm:text-2xl font-semibold text-primary-600 dark:text-primary-400">{title}</h3>
-          <p className="mt-2 leading-relaxed text-gray-700 dark:text-white/70 text-sm sm:text-base">
+          <p className="mt-2 mb-4 leading-relaxed text-gray-700 dark:text-white/70 text-sm sm:text-base">
             {description}
           </p>
-          <div className="flex mt-4 gap-3">
-            {link && (
-              <Link
-                href={link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-700 hover:text-primary-600 dark:text-white/70 dark:hover:text-primary-400 transition"
-                aria-label={`View ${title} on GitHub`}
-              >
-                <FaGithub className="text-xl" />
-              </Link>
-            )}
-            {/* Add demo link if available */}
-            {/* <Link
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-700 hover:text-primary-600 dark:text-white/70 dark:hover:text-primary-400 transition"
-              aria-label={`View ${title} live demo`}
-            >
-              <FaExternalLinkAlt className="text-lg" />
-            </Link> */}
-          </div>
-          <ul className="flex flex-wrap mt-4 gap-2 sm:mt-auto">
+
+          <ul className="flex flex-wrap mt-6 gap-2.5 sm:mt-auto">
             {tags.map((tag, index) => (
               <li
-                className="bg-primary-100 text-primary-700 px-2 py-1 text-[0.65rem] sm:text-[0.7rem] sm:px-3 uppercase tracking-wider rounded-full dark:bg-primary-900/30 dark:text-primary-300"
+                className="bg-primary-100 text-primary-700 px-3 py-1.5 text-[0.65rem] sm:text-[0.7rem] sm:px-3.5 uppercase tracking-wider rounded-full dark:bg-primary-900/30 dark:text-primary-300 font-medium border border-primary-200 dark:border-primary-800/30 shadow-sm"
                 key={index}
               >
                 {tag}
@@ -92,7 +70,7 @@ export default function Project({
           width={500}
           height={300}
           quality={95}
-          className="absolute hidden sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
+          className="absolute hidden sm:block top-10 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
           transition
           group-hover:scale-[1.04]
           group-hover:-translate-x-3

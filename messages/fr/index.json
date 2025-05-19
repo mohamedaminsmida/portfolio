@@ -36,7 +36,31 @@
     "title": "Mes Compétences"
   },
   "experience": {
-    "title": "Mon Expérience"
+    "title": "Mon Expérience",
+    "trisoweb": {
+      "title": "Stagiaire en Ingénierie Logicielle",
+      "location": "Trisoweb, Tunisie",
+      "description": "Contribution au développement fullstack d'une plateforme e-commerce utilisant Laravel et Vue.js, en se concentrant sur la création d'APIs RESTful évolutives et la conception d'une architecture de base de données PostgreSQL robuste. Intégration de composants Vue.js dynamiques et collaboration avec des développeurs seniors pour améliorer les performances du système et assurer les meilleures pratiques de développement.",
+      "date": "2022 (3 mois)"
+    },
+    "satoripop": {
+      "title": "Stagiaire Développeur Backend",
+      "location": "Satoripop, Tunisie",
+      "description": "Développement de fonctionnalités clés pour une plateforme d'engagement client multicanal (similaire à Brevo/Mailchimp) utilisant Laravel et Vue.js. Implémentation d'endpoints API sécurisés pour les services d'email, SMS et notifications push, et contribution au système de file d'attente de messages pour la livraison de campagnes à haut volume.",
+      "date": "2023"
+    },
+    "education": {
+      "title": "Licence en Sciences Appliquées et Technologie",
+      "location": "Institut Supérieur des Sciences Appliquées et de Technologie de Sousse, Tunisie",
+      "description": "Suivi de cours rigoureux sur les fondamentaux de l'ingénierie logicielle, les structures de données, les algorithmes et les technologies de développement web. Développement de solides compétences en résolution de problèmes grâce à des projets pratiques et des travaux d'équipe collaboratifs. Diplômé avec mention, démontrant l'excellence académique.",
+      "date": "2023"
+    },
+    "laravel": {
+      "title": "Développeur Laravel",
+      "location": "Freelance, Tunisie",
+      "description": "Conception et développement d'applications web de niveau entreprise utilisant les technologies de l'écosystème Laravel. Spécialisation dans la conception d'API RESTful, l'optimisation de bases de données et l'implémentation de logiques métier complexes. Concentration sur la livraison de solutions évolutives et maintenables avec une couverture de tests complète et des pratiques CI/CD modernes.",
+      "date": "2023 - présent"
+    }
   },
   "blog": {
     "title": "Derniers Articles",

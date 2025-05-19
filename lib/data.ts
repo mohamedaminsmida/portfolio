@@ -1,7 +1,4 @@
-import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
-import { FaReact, FaCode } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
+// Icons moved to experience.tsx
 
 export const links = [
   {
@@ -34,40 +31,7 @@ export const links = [
   },
 ] as const;
 
-export const experiencesData = [
-  {
-    title: "Computer Science Degree",
-    location: "Casablanca, Morocco",
-    description:
-      "I graduated with a Bachelor's degree in Computer Science, focusing on software engineering and web development with a strong foundation in PHP.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2018",
-  },
-  {
-    title: "Junior Laravel Developer",
-    location: "Rabat, Morocco",
-    description:
-      "I started my career as a Laravel developer, building custom web applications and content management systems for various clients using Laravel and MySQL.",
-    icon: React.createElement(FaCode),
-    date: "2018 - 2020",
-  },
-  {
-    title: "Laravel Developer",
-    location: "Casablanca, Morocco",
-    description:
-      "I advanced to a mid-level Laravel developer role, working with Laravel, Livewire, and Alpine.js to build dynamic web applications with responsive interfaces.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2022",
-  },
-  {
-    title: "Senior Laravel Developer",
-    location: "Remote",
-    description:
-      "I'm now working as a senior Laravel developer specializing in Livewire, Filament, Alpine.js, and Tailwind CSS. I focus on building scalable, maintainable, and user-friendly web applications.",
-    icon: React.createElement(FaReact),
-    date: "2022 - present",
-  },
-] as const;
+// Experience data moved to translation files
 
 export const projectsData = [
   {

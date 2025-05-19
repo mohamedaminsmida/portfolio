@@ -36,7 +36,31 @@
     "title": "My Skills"
   },
   "experience": {
-    "title": "My Experience"
+    "title": "My Experience",
+    "trisoweb": {
+      "title": "Software Engineering Intern",
+      "location": "Trisoweb, Tunisia",
+      "description": "Contributed to the fullstack development of an e-commerce platform using Laravel and Vue.js, focusing on building scalable RESTful APIs and designing robust PostgreSQL database architecture. Integrated dynamic Vue.js components and collaborated with senior developers to enhance system performance and ensure development best practices.",
+      "date": "2022 (3 months)"
+    },
+    "satoripop": {
+      "title": "Backend Developer Intern",
+      "location": "Satoripop, Tunisia",
+      "description": "Developed key features for a multichannel customer engagement platform (similar to Brevo/Mailchimp) using Laravel and Vue.js. Implemented secure API endpoints for email, SMS, and push notification services, and contributed to the messaging queue system for high-volume campaign delivery.",
+      "date": "2023"
+    },
+    "education": {
+      "title": "Bachelor's Degree in Applied Sciences and Technology",
+      "location": "Higher Institute of Applied Sciences and Technology of Sousse, Tunisia",
+      "description": "Completed rigorous coursework in software engineering fundamentals, data structures, algorithms, and web development technologies. Developed strong problem-solving skills through practical projects and collaborative team assignments. Graduated with honors, demonstrating academic excellence.",
+      "date": "2023"
+    },
+    "laravel": {
+      "title": "Laravel Developer",
+      "location": "Freelance, Tunisia",
+      "description": "Architecting and developing enterprise-level web applications using Laravel ecosystem technologies. Specializing in RESTful API design, database optimization, and implementing complex business logic. Focused on delivering scalable, maintainable solutions with comprehensive test coverage and modern CI/CD practices.",
+      "date": "2023 - present"
+    }
   },
   "blog": {
     "title": "Latest Articles",
