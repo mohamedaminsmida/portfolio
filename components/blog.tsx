@@ -11,7 +11,7 @@ import { format } from "date-fns";
 import { useTranslation } from "@/lib/hooks/useTranslation";
 
 export default function Blog() {
-  const { ref } = useSectionInView("Blog", 0.5);
+  const ref = React.useRef<HTMLElement>(null);
   const { t } = useTranslation();
 
   return (
