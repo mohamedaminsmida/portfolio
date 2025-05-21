@@ -2,7 +2,7 @@
 
 import React, { createContext, useContext, useState, useEffect } from "react";
 
-type Language = "en" | "fr" | "ar";
+type Language = "en" | "fr";
 
 type LanguageContextType = {
   language: Language;
@@ -22,15 +22,13 @@ export function LanguageContextProvider({
   // Load saved language preference from localStorage on client side
   useEffect(() => {
     const savedLanguage = localStorage.getItem("language") as Language;
-    if (savedLanguage && ["en", "fr", "ar"].includes(savedLanguage)) {
+    if (savedLanguage && ["en", "fr"].includes(savedLanguage)) {
       setLanguage(savedLanguage);
     } else {
       // Try to detect browser language
       const browserLanguage = navigator.language.split("-")[0];
       if (browserLanguage === "fr") {
         setLanguage("fr");
-      } else if (browserLanguage === "ar") {
-        setLanguage("ar");
       }
       // Default is already "en"
     }
@@ -40,16 +38,9 @@ export function LanguageContextProvider({
   useEffect(() => {
     localStorage.setItem("language", language);
     
-    // Update document direction for RTL languages
-    if (language === "ar") {
-      document.documentElement.dir = "rtl";
-      document.documentElement.lang = "ar";
-      document.body.classList.add("font-arabic");
-    } else {
-      document.documentElement.dir = "ltr";
-      document.documentElement.lang = language;
-      document.body.classList.remove("font-arabic");
-    }
+    // Set document language
+    document.documentElement.dir = "ltr";
+    document.documentElement.lang = language;
   }, [language]);
 
   return (

@@ -30,7 +30,24 @@
   "projects": {
     "title": "Mes Projets",
     "viewGithub": "Voir sur GitHub",
-    "viewDemo": "Démo en direct"
+    "viewDemo": "Démo en direct",
+    "keyFeatures": "Fonctionnalités & Compétences Clés:",
+    "laravel": {
+      "title": "Laravel",
+      "description": "Développement de systèmes backend sophistiqués avec le framework Laravel, en mettant l'accent sur l'évolutivité et la performance. Création d'APIs RESTful, implémentation de logiques métier complexes et optimisation des requêtes de base de données pour des applications à fort trafic. Expertise dans l'écosystème Laravel incluant les événements, les files d'attente et les fournisseurs de services."
+    },
+    "reverb": {
+      "title": "Laravel Reverb",
+      "description": "Développement de systèmes de communication en temps réel avec Laravel Reverb, créant des applications réactives et interactives. Implémentation de solutions WebSocket pour les notifications instantanées, les tableaux de bord en direct et les applications de chat. Conception d'une architecture de diffusion évolutive avec authentification sécurisée et gestion efficace des canaux."
+    },
+    "filament": {
+      "title": "Filament",
+      "description": "Création de panneaux d'administration sophistiqués et d'interfaces CRUD avec Laravel Filament. Développement de plugins et composants personnalisés pour étendre les fonctionnalités, créant des tableaux de bord administratifs intuitifs et puissants pour la gestion de contenu."
+    },
+    "vue": {
+      "title": "Vue.js",
+      "description": "Conception d'interfaces utilisateur dynamiques et réactives avec Vue.js, créant des expériences utilisateur fluides. Développement d'applications à page unique avec une architecture basée sur les composants, gestion d'état avec Vuex et routage côté client. Implémentation de liaison de données réactive et optimisation du rendu pour des applications web haute performance."
+    }
   },
   "skills": {
     "title": "Mes Compétences"
@@ -77,10 +94,12 @@
     "messageLabel": "Votre message",
     "submitButton": "Envoyer",
     "successMessage": "Merci pour votre message! Je vous répondrai bientôt.",
-    "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer.",
+    "emailText": "Contactez-moi directement à",
+    "formText": "ou via ce formulaire."
   },
   "footer": {
-    "copyright": "© 2024 Amin. Tous droits réservés.",
+    "copyright": " 2024 Amin. Tous droits réservés.",
     "builtWith": "Construit avec Next.js et Tailwind CSS"
   },
   "theme": {

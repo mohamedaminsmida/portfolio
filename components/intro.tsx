@@ -107,7 +107,7 @@ export default function Intro() {
         <div className="flex gap-2">
           <a
             className="bg-white p-3 sm:p-4 text-gray-700 hover:text-primary-600 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60 dark:hover:text-primary-400 dark:border-white/10"
-            href="https://www.linkedin.com/in/smida-amin-677970278/?originalSubdomain=tn"
+            href="https://www.linkedin.com/in/smida-amin-677970278/"
             target="_blank"
             aria-label="LinkedIn Profile"
           >

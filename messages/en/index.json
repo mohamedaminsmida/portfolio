@@ -30,6 +30,28 @@
   "expertise": {
     "title": "Technical Expertise"
   },
+  "projects": {
+    "title": "Technical Expertise",
+    "viewGithub": "View on GitHub",
+    "viewDemo": "Live Demo",
+    "keyFeatures": "Key Features & Skills:",
+    "laravel": {
+      "title": "Laravel",
+      "description": "Built sophisticated backend systems with Laravel framework, focusing on scalability and performance. Developed RESTful APIs, implemented complex business logic, and optimized database queries for high-traffic applications. Expertise in Laravel's ecosystem including events, queues, and service providers."
+    },
+    "reverb": {
+      "title": "Laravel Reverb",
+      "description": "Developed real-time communication systems with Laravel Reverb, creating responsive and interactive applications. Implemented WebSocket solutions for instant notifications, live dashboards, and chat applications. Designed scalable broadcasting architecture with secure authentication and efficient channel management."
+    },
+    "filament": {
+      "title": "Filament",
+      "description": "Built sophisticated admin panels and CRUD interfaces with Laravel Filament. Developed custom plugins and components to extend functionality, creating intuitive and powerful administrative dashboards for content management."
+    },
+    "vue": {
+      "title": "Vue.js",
+      "description": "Engineered dynamic and responsive user interfaces with Vue.js, creating seamless user experiences. Developed single-page applications with component-based architecture, state management using Vuex, and client-side routing. Implemented reactive data binding, custom directives, and optimized rendering for high-performance web applications."
+    }
+  },
   "skills": {
     "title": "My Skills"
   },

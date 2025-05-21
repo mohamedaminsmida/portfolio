@@ -62,7 +62,7 @@ export const expertiseData = [
     title: "Vue.js",
     description:
       "Engineered dynamic and responsive user interfaces with Vue.js, creating seamless user experiences. Developed single-page applications with component-based architecture, state management using Vuex, and client-side routing. Implemented reactive data binding, custom directives, and optimized rendering for high-performance web applications.",
-    tags: ["Components", "Vuex", "Vue Router", "Composition API", "Transitions", "API Integration", "Reactive UI", "Custom Directives"],
+    tags: ["Components", "Vuex", "Vue Router", "Composition API", "Transitions", "API Integration", "Reactive UI"],
     imageUrl: "/images/vue-logo.png", // Replace with actual Vue.js logo
     link: "https://vuejs.org",
   },
