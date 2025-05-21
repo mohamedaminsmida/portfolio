@@ -9,7 +9,7 @@ import { testimonialData } from "@/lib/data";
 import { useTranslation } from "@/lib/hooks/useTranslation";
 
 export default function Testimonials() {
-  const { ref } = useSectionInView("Testimonials", 0.5);
+  const ref = React.useRef<HTMLElement>(null);
   const { t } = useTranslation();
 
   return (
